@@ -1,3 +1,5 @@
-# _QAddict_ organization
+# _QAddict.org_
 
-| _'Quality addicted'_
+> ,,We are Addicted to Quality''
+
+_QAddict_ organization brings various tools mainly for use in Test Automation.
